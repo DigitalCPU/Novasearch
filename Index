@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NovaSearch - Index</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Background Image -->
+    <div class="background"></div>
+
+    <!-- Transparent Neon Green Containers -->
+    <div class="container">
+        <h1>NovaSearch</h1>
+        <p>Welcome to the **future of AI-powered search**.</p>
+        <a href="novasearch.html" class="button">Enter NovaSearch</a>
+        <a href="https://digitalcpu.github.io/Cyclonex/" class="button">Visit CycloNex</a>
+    </div>
+
+    <div class="container">
+        <h2>Fully Customizable User Interface</h2>
+        <p>Change themes, layouts, fonts, and create a search engine **that fits your style**.</p>
+    </div>
+
+    <div class="container">
+        <h2>Built-in Editing Tools</h2>
+        <p>Audio, video, and image editing **directly within NovaSearch** – no external apps needed.</p>
+    </div>
+
+    <div class="container">
+        <h2>Record Mode & Replay</h2>
+        <p>Record your searches and **replay them later** for reference or review.</p>
+    </div>
+
+    <div class="container">
+        <h2>Screen Grab</h2>
+        <p>Take instant screenshots with **one-click capture and cloud storage support**.</p>
+    </div>
+
+    <div class="container">
+        <h2>Endless Extensions</h2>
+        <p>NovaSearch supports **third-party extensions, AI plugins, and custom automation**.</p>
+    </div>
+
+</body>
+</html>
